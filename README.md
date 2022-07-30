@@ -6,15 +6,15 @@ The contents of the following code represents:-
 The application will have a log-in for admin and users.
 
 
-Admin will have the following functionalities:-
+Admin contains the following functionalities:-
 
 Add new food items. Food Item will have the following details:
-FoodID //It should be generated automatically by the application.
+FoodID i generated automatically by the application.
 Name
 Quantity. (For eg, 100ml, 250gm, 4pieces etc)
 Price
 Discount
-Stock. Amount left in stock in the restaurant.
+Stock. (Amount left in stock in the restaurant.)
 Edit food items using FoodID.
 View the list of all food items.
 Remove a food item from the menu using FoodID.
@@ -29,7 +29,8 @@ Email
 Address
 Password
 Log in to the application
-The user will see 3 options:
+
+The user would get to select from the 3 options:
 1.Place New Order
 2.Order History
 3.Update Profile
@@ -40,7 +41,7 @@ Show list of food. The list item should as follows:
 2. Vegan Burger (1 Piece) [INR 320]
 3. Truffle Cake (500gm) [INR 900]
 
-Users should be able to select food by entering an array of numbers. For example, if the user wants to order Vegan Burger and Truffle Cake they should enter [2, 3]
-Once the items are selected user should see the list of all the items selected. The user will also get an option to place an order.
-Order History should show a list of all the previous orders
-Update Profile: the user should be able to update their profile.
+Users are able to select food by entering an array of numbers. 
+Once the items are selected user would see a list of all the items selected. The user will also get an option to place an order.
+Order History will show a list of all the previous orders
+Update Profile: the user will be able to update their profile.
