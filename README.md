@@ -1,4 +1,4 @@
-# FOOD_ORDERING_PROJECT
+# FOOD_ORDERING_APP_PROJECT
 The given below is a code for making a food ordering app represtation.
 The contents of the following code represents:-
 
